@@ -1,6 +1,7 @@
 # **TEMPLATE METHOD PATTERN**
 -------------
 
+
 The general idea of the Template Method pattern is to
 build an abstract base class with a skeletal method. This skeletal method (also called a
 template method) drives the bit of the processing that needs to vary, but it does so by
