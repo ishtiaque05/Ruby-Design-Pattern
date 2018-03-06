@@ -1,0 +1,3 @@
+INFO: Computer wins in uno.
+WARNING: over heating
+ERROR: no method found!

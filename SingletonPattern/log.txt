@@ -1,0 +1,3 @@
+INFO: Computer wins chess game.
+WARNING: Ram failure
+ERROR: semi-colon missing
