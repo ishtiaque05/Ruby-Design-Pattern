@@ -1,0 +1,4 @@
+require './formula'
+backup '/home/g2/projects/ruby/Ruby-Design-Pattern/ProxyPattern/refined-proxy-pattern-ruby-way', except('*.md')
+to './tmp/backups'
+interval 60
