@@ -1,6 +1,4 @@
-require './expression'
-require './all'
-
+require './require_all'
 class Not < Expression
   def initialize(expression)
   	@expression = expression

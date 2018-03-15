@@ -1,4 +1,4 @@
-require './expression'
+require './require_all'
 
 class FileName < Expression
   def initialize(pattern)

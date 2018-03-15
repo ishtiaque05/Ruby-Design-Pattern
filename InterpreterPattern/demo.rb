@@ -1,8 +1,4 @@
-require './all'
-require './filename'
-require './not'
-require './bigger'
-require './or'
+require './require_all'
 
 expr_all = All.new
 files = expr_all.evaluate('/home/g2/projects/ruby/Ruby-Design-Pattern')

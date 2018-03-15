@@ -1,4 +1,4 @@
-require './expression'
+require './require_all'
 class Or < Expression
   def initialize(expression1, expression2)
   	@expression1 = @expression1

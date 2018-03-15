@@ -1,11 +1,5 @@
 require 'find'
-require './or'
-require './not'
-require './all'
-require './and'
-require './bigger'
-require './writable'
-
+require './require_all'
 class Expression
   def | (other)
   	Or.new(self, other)

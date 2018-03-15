@@ -1,4 +1,4 @@
-require './expression'
+require './require_all'
 
 class All < Expression
   def evaluate(dir)

@@ -1,4 +1,4 @@
-require './expression'
+require './require_all'
 require 'find'
 
 class Bigger < Expression
